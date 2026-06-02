@@ -31,6 +31,8 @@ Tidak memerlukan Node.js, Docker, atau dependency kompleks. Cocok untuk shared h
 |----------|----------|------|
 | `developer` | `developer123` | Developer |
 | `dispatch` | `dispatch123` | Dispatch |
+| `lspd1` | `lspd123` | LSPD Officer (demo) |
+| `bcso1` | `bcso123` | BCSO Deputy (demo) |
 
 ## Instalasi Cepat
 
