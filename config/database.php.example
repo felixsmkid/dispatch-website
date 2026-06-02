@@ -1,0 +1,11 @@
+<?php
+/**
+ * SMCD Database Configuration
+ * Copy this file to database.php and edit your credentials.
+ */
+
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'smcd_dispatch');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_CHARSET', 'utf8mb4');

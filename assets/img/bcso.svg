@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="BCSO">
+  <circle cx="60" cy="60" r="52" fill="#2d1810" stroke="#c9a227" stroke-width="4"/>
+  <circle cx="60" cy="55" r="24" fill="#1a3d1a" stroke="#daa520" stroke-width="2"/>
+  <path fill="#daa520" d="M48 55h24v4H48zm-2-8h28v4H46zm4 16h20v4H50z"/>
+  <text x="60" y="92" text-anchor="middle" fill="#daa520" font-family="Arial,sans-serif" font-size="15" font-weight="bold">BCSO</text>
+  <text x="60" y="104" text-anchor="middle" fill="#d4a574" font-size="6.5" font-family="Arial">BLAINE COUNTY SHERIFF</text>
+</svg>
