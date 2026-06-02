@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="LSPD">
+  <polygon points="60,8 108,32 108,88 60,112 12,88 12,32" fill="#1a2744" stroke="#c9a227" stroke-width="3"/>
+  <circle cx="60" cy="55" r="22" fill="#0d2137" stroke="#2563eb" stroke-width="2"/>
+  <path fill="#c9a227" d="M60 40l4 12h12l-10 7 4 12-10-8-10 8 4-12-10-7h12z"/>
+  <text x="60" y="92" text-anchor="middle" fill="#c9a227" font-family="Arial,sans-serif" font-size="16" font-weight="bold">LSPD</text>
+  <text x="60" y="104" text-anchor="middle" fill="#93c5fd" font-size="7" font-family="Arial">LOS SANTOS POLICE</text>
+</svg>
