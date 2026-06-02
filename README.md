@@ -73,3 +73,15 @@ Lihat **[INSTALL.md](INSTALL.md)** untuk panduan lengkap.
 ## Lisensi
 
 Proyek ini disediakan untuk penggunaan server roleplay FiveM Anda.
+
+## Preview UI (GitHub Pages)
+
+Tanpa server PHP — lihat UI dulu dengan data dummy:
+
+1. Repo → **Settings** → **Pages**
+2. Source: **Deploy from a branch** → branch `main` (atau branch PR) → folder **`/docs`**
+3. Save → buka: `https://felixsmkid.github.io/dispatch-website/`
+
+Atau buka file `docs/index.html` langsung di browser (beberapa fitur audio mungkin diblokir).
+
+> Versi penuh (login, database, realtime) tetap butuh hosting PHP + MySQL.
